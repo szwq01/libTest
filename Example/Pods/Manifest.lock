@@ -1,0 +1,16 @@
+PODS:
+  - libTest (0.1.0)
+
+DEPENDENCIES:
+  - libTest (from `../`)
+
+EXTERNAL SOURCES:
+  libTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  libTest: 76012a330bc70f502b4df9c9379d7ead8f3298a3
+
+PODFILE CHECKSUM: cfe981eccf8d47fbe25ea555d576ea20d7794f8e
+
+COCOAPODS: 1.7.0.beta.1
